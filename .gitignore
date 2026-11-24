@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.log
+BrowserData/
+backups/
+*backup*.json
+client_secret*.json
+credentials*.json
+token*.json
+.env
+self-test*.json
